@@ -1,6 +1,6 @@
 ﻿
 
-namespace DbExercise.DbConnector;
+namespace DbExercise.Connectors;
 
 public class SqlConnection(string connectionString) : DbConnector(connectionString)
 {

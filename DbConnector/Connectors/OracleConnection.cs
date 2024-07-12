@@ -1,5 +1,5 @@
 ﻿
-namespace DbExercise.DbConnector;
+namespace DbExercise.Connectors;
 
 // var oc = new OracleConnection("http://localhost:8080")
 // oc.Open();

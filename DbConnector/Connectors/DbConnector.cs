@@ -1,5 +1,5 @@
 ﻿
-namespace DbExercise.DbConnector;
+namespace DbExercise.Connectors;
 public abstract class DbConnector
 {
     public string ConnectionString { get; private set; }
